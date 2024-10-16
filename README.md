@@ -2,11 +2,10 @@
 <h1 align="center">Hi 👋, I'm Gokul</h1>
 <h3 align="center">A passionate Software developer from India</h3>
 
-<img align="right" alt="coding" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Felnurxo%2Felnurxo%2Fblob%2Fmain%2FREADME.md&psig=AOvVaw1q6orA4UJkr32k2OF6b3Fe&ust=1729186021633000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCLC50Ye2k4kDFQAAAAAdAAAAABAE"/>
+<img align="right" alt="coding" width="400" src="https://camo.githubusercontent.com/46f764962d012a38e344425d8ac7b2cfb94d7cf21f4fd3a396f70d7bd2ca8f00/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f312a6e57515f55354e4b45664e6547435466685f322d4d772e676966"/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gokul1902&label=Profile%20views&color=0e75b6&style=flat" alt="gokul1902" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gokul1902" alt="gokul1902" /></a> </p>
 
 - 🔭 I’m currently working on [DBrains](https://github.com/Gokul1902/D-Brains)
 
